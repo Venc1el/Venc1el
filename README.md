@@ -1,20 +1,16 @@
-<!-- Save as README.md in the repository: Venc1el/Venc1el -->
+<!-- Save as README.md in the repository: Venc1el/Venc1el  (keep the assets/ folder next to it) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=146BFF&height=190&section=header&text=SUDARMO&fontSize=84&fontColor=FFC21A&fontAlignY=42&desc=aka%20Venc1el%20%E2%80%94%20Flutter%20%26%20full-stack%20developer&descAlignY=68&descSize=18&descColor=F3F0E8" alt="Sudarmo aka Venc1el, Flutter and full-stack developer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&duration=2600&pause=900&color=146BFF&center=true&vCenter=true&width=620&lines=Builds+apps.+Breaks+them.+Fixes+them.;Flutter+by+day.+React+by+also+day.;Ctrl%2BZ+is+my+love+language.;Ngoding+dulu%2C+mikir+belakangan." alt="Typing intro" />
+  <img src="assets/header.svg" alt="Sudarmo aka Venc1el, Flutter and full-stack developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://sudarmoadi.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-the%20loud%20version-FFC21A?style=for-the-badge&labelColor=071A3A" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sudarmo-adi-joyo-putro/"><img src="https://img.shields.io/badge/LINKEDIN-say%20hi-146BFF?style=for-the-badge&labelColor=071A3A&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Venc1el&style=for-the-badge&color=FF3B30&labelColor=071A3A&label=VISITS" alt="Profile visits" />
+  <a href="https://github.com/Venc1el?tab=followers"><img src="https://img.shields.io/github/followers/Venc1el?style=for-the-badge&labelColor=071A3A&color=FF3B30" alt="GitHub followers" /></a>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" height="14" alt="" />
 
 ### Hello, I'm Sudarmo
 
@@ -34,6 +30,8 @@ void main() {
 }
 ```
 
+<img src="assets/divider.svg" width="100%" height="14" alt="" />
+
 ### Spec sheet
 
 | | |
@@ -46,26 +44,29 @@ void main() {
 
 ### Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nodejs,express,prisma,dotnet,tailwind,mysql,firebase,git,figma&perline=13" alt="Tech stack icons" />
+<p>
+  <img src="https://img.shields.io/badge/Flutter-146BFF?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-146BFF?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-071A3A?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-071A3A?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-071A3A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-071A3A?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Prisma-071A3A?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/.NET-071A3A?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Tailwind-071A3A?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-071A3A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-071A3A?style=flat-square&logo=firebase&logoColor=FFC21A" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-071A3A?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-071A3A?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
+
+<img src="assets/divider.svg" width="100%" height="14" alt="" />
 
 ### The loud version
 
 My portfolio is a paper collage with marker doodles and project cards that stack like papers on a desk. This README is its quiet cousin. Selected work (BangsaOnline, Apotek POS, Rental Checkout and more) lives over there:
 
 **[sudarmoadi.netlify.app](https://sudarmoadi.netlify.app)**
-
-### Receipts
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Venc1el&show_icons=true&bg_color=F3F0E8&border_color=071A3A&title_color=146BFF&text_color=071A3A&icon_color=FF3B30&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venc1el&layout=compact&langs_count=6&bg_color=F3F0E8&border_color=071A3A&title_color=146BFF&text_color=071A3A" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Venc1el&background=F3F0E8&stroke=071A3A&ring=146BFF&fire=FF3B30&currStreakLabel=146BFF&sideLabels=071A3A&currStreakNum=071A3A&sideNums=071A3A&dates=071A3A" alt="Contribution streak" />
-</p>
 
 ### FAQ
 
@@ -75,11 +76,7 @@ Yes. Yours is a separate project.
 **Are you open to work?**
 Open to interesting projects, good coffee, and APIs that match their documentation.
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=146BFF&height=70&section=footer" alt="footer" />
-</p>
+<img src="assets/divider.svg" width="100%" height="14" alt="" />
 
 <p align="center">
   <sub>Written in Dart, JavaScript, and an unreasonable number of browser tabs.</sub>
